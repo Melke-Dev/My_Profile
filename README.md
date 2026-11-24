@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Melkamu%20Girma%20Tekle&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20IT%20Officer%20%7C%20Network%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Melkamu!;💻+Software+Engineering+Graduate;🌐+Networking+%26+Computer+Maintenance;🚀+Building+things+for+Ethiopia+%F0%9F%87%AA%F0%9F%87%B9" alt="Typing SVG" />
-
+<img src="https://github.com/Melke-Dev.png" width="150" style="border-radius:50%" alt="Melkamu Girma Tekle"/>
 ![Profile Views](https://komarev.com/ghpvc/?username=melkamu&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 ![Location](https://img.shields.io/badge/📍_Addis_Ababa-Ethiopia_🇪🇹-009639?style=for-the-badge)
 ![Status](https://img.shields.io/badge/🟢_Open_to-Work-brightgreen?style=for-the-badge)
